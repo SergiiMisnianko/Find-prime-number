@@ -1,5 +1,5 @@
 # Find-prime-number
-Mission is find prime number after the users number.
+Mission is find next prime number after the users number.
 
 Задание:
 Написать программу, которая будет принимать сначала номер задачи, а затем через switch/case выполнять её основываясь на выборе пользователя.
